@@ -1,4 +1,4 @@
-# Courses manager app.
+# Calculator
 
 ## What is this app about?
 This app is a basic calculator made in the course Programacion I
